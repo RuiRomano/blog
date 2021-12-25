@@ -7,4 +7,16 @@ description: > # this means to ignore newlines until "baseurl:"
 twitter_username: RuiRomano
 github_username:  RuiRomano
 
+permalink: /:title/
+markdown: kramdown
+paginate: 5
+paginate_path: "/:num/"
+date_format: "%b %-d, %Y"
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
 show_excerpts: true # set to false to remove excerpts on the homepage
