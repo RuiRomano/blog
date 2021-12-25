@@ -1,1 +1,10 @@
+title: Your awesome title
 theme: jekyll-theme-slate
+author: Rui Romano
+description: > # this means to ignore newlines until "baseurl:"
+  This blog is aplace to share my own thoughts / opinions / knowledge
+# social links
+twitter_username: RuiRomano
+github_username:  RuiRomano
+
+show_excerpts: true # set to false to remove excerpts on the homepage
