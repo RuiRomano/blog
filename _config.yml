@@ -20,3 +20,7 @@ plugins:
   - jekyll-sitemap
   
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+header_pages:
+  - about.md
+  - sessions.md
