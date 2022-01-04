@@ -1,14 +1,22 @@
 title: Rui Romano Blog
 remote_theme: broccolini/swiss
-theme_color: white
 author: Rui Romano
 description: > # this means to ignore newlines until "baseurl:"
   This blog is a place to share my own thoughts / opinions
 # social links
 twitter_username: RuiRomano
 github_username:  RuiRomano
+
+
+# Optional social link, you can choose from the following options:
+# twitter (default), instagram, medium, or dribbble
 social_link: twitter
 social_username: ruiromano
+
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: white
+
 
 permalink: /:title/
 markdown: kramdown
