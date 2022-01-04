@@ -1,5 +1,6 @@
 title: Rui Romano Blog
 remote_theme: broccolini/swiss
+theme_color: white
 author: Rui Romano
 description: > # this means to ignore newlines until "baseurl:"
   This blog is a place to share my own thoughts / opinions
