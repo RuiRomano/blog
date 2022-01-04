@@ -7,6 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 twitter_username: RuiRomano
 github_username:  RuiRomano
+social_link: twitter
+social_username: ruiromano
 
 permalink: /:title/
 markdown: kramdown
