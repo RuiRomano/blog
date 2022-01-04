@@ -1,5 +1,5 @@
 title: Rui Romano Blog
-theme: jekyll-swiss
+remote_theme: broccolini/swiss
 author: Rui Romano
 description: > # this means to ignore newlines until "baseurl:"
   This blog is a place to share my own thoughts / opinions
